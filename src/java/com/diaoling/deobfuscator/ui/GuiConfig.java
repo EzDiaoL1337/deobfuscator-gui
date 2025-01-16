@@ -1,4 +1,4 @@
-package com.javadeobfuscator.deobfuscator.ui;
+package com.diaoling.deobfuscator.ui;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

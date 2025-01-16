@@ -1,4 +1,4 @@
-package com.javadeobfuscator.deobfuscator.ui.util;
+package com.diaoling.deobfuscator.ui.util;
 
 import java.lang.reflect.Field;
 

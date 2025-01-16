@@ -1,4 +1,4 @@
-package com.javadeobfuscator.deobfuscator.ui.wrap;
+package com.diaoling.deobfuscator.ui.wrap;
 
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
@@ -6,8 +6,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import com.javadeobfuscator.deobfuscator.ui.util.ByteLoader;
-import com.javadeobfuscator.deobfuscator.ui.util.FallbackException;
+import com.diaoling.deobfuscator.ui.util.ByteLoader;
+import com.diaoling.deobfuscator.ui.util.FallbackException;
 
 public class Transformers
 {

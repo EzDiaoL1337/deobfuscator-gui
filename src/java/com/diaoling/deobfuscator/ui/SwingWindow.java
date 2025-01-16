@@ -1,4 +1,4 @@
-package com.javadeobfuscator.deobfuscator.ui;
+package com.diaoling.deobfuscator.ui;
 
 import java.awt.Dialog;
 import java.awt.Dimension;
@@ -36,25 +36,24 @@ import javax.swing.*;
 
 import com.github.weisj.darklaf.LafManager;
 import com.github.weisj.darklaf.settings.ThemeSettings;
-import com.javadeobfuscator.deobfuscator.ui.component.SwingConfiguration;
-import com.javadeobfuscator.deobfuscator.ui.component.SwingConfiguration.ConfigItem;
-import com.javadeobfuscator.deobfuscator.ui.component.SwingConfiguration.ItemType;
-import com.javadeobfuscator.deobfuscator.ui.component.SynchronousJFXCaller;
-import com.javadeobfuscator.deobfuscator.ui.component.SynchronousJFXFileChooser;
-import com.javadeobfuscator.deobfuscator.ui.component.WrapLayout;
-import com.javadeobfuscator.deobfuscator.ui.util.ExceptionUtil;
-import com.javadeobfuscator.deobfuscator.ui.util.FallbackException;
-import com.javadeobfuscator.deobfuscator.ui.util.InvalidJarException;
-import com.javadeobfuscator.deobfuscator.ui.util.TransformerConfigUtil;
-import com.javadeobfuscator.deobfuscator.ui.wrap.Config;
-import com.javadeobfuscator.deobfuscator.ui.wrap.Deobfuscator;
-import com.javadeobfuscator.deobfuscator.ui.wrap.Transformers;
-import com.javadeobfuscator.deobfuscator.ui.wrap.WrapperFactory;
+import com.diaoling.deobfuscator.ui.component.SwingConfiguration;
+import com.diaoling.deobfuscator.ui.component.SwingConfiguration.ConfigItem;
+import com.diaoling.deobfuscator.ui.component.SwingConfiguration.ItemType;
+import com.diaoling.deobfuscator.ui.component.SynchronousJFXCaller;
+import com.diaoling.deobfuscator.ui.component.SynchronousJFXFileChooser;
+import com.diaoling.deobfuscator.ui.component.WrapLayout;
+import com.diaoling.deobfuscator.ui.util.ExceptionUtil;
+import com.diaoling.deobfuscator.ui.util.FallbackException;
+import com.diaoling.deobfuscator.ui.util.InvalidJarException;
+import com.diaoling.deobfuscator.ui.util.TransformerConfigUtil;
+import com.diaoling.deobfuscator.ui.wrap.Config;
+import com.diaoling.deobfuscator.ui.wrap.Deobfuscator;
+import com.diaoling.deobfuscator.ui.wrap.Transformers;
+import com.diaoling.deobfuscator.ui.wrap.WrapperFactory;
 import javafx.stage.FileChooser;
 
 public class SwingWindow
 {
-
 	private static Deobfuscator deob;
 	public static Transformers trans;
 	private static Config config;

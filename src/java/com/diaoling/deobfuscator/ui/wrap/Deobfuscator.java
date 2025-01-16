@@ -1,4 +1,4 @@
-package com.javadeobfuscator.deobfuscator.ui.wrap;
+package com.diaoling.deobfuscator.ui.wrap;
 
 import java.io.PrintStream;
 import java.lang.reflect.Constructor;
@@ -7,9 +7,9 @@ import java.lang.reflect.Method;
 import java.util.Map;
 import java.util.Set;
 
-import com.javadeobfuscator.deobfuscator.ui.util.ByteLoader;
-import com.javadeobfuscator.deobfuscator.ui.util.FallbackException;
-import com.javadeobfuscator.deobfuscator.ui.util.Reflect;
+import com.diaoling.deobfuscator.ui.util.ByteLoader;
+import com.diaoling.deobfuscator.ui.util.FallbackException;
+import com.diaoling.deobfuscator.ui.util.Reflect;
 
 public class Deobfuscator
 {

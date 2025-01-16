@@ -25,7 +25,7 @@
 // CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
 // THE POSSIBILITY OF SUCH DAMAGE.
-package com.javadeobfuscator.deobfuscator.ui.util;
+package com.diaoling.deobfuscator.ui.util;
 
 /**
  * Minified version of ClassReader from ASM, only allows for fetching of class name. <br> Minification / stripping used because the rest of the class is unused.

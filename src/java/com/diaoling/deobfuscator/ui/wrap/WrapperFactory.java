@@ -1,4 +1,4 @@
-package com.javadeobfuscator.deobfuscator.ui.wrap;
+package com.diaoling.deobfuscator.ui.wrap;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
@@ -10,10 +10,10 @@ import java.util.Map;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 
-import com.javadeobfuscator.deobfuscator.ui.util.ByteLoader;
-import com.javadeobfuscator.deobfuscator.ui.util.FallbackException;
-import com.javadeobfuscator.deobfuscator.ui.util.InvalidJarException;
-import com.javadeobfuscator.deobfuscator.ui.util.MiniClassReader;
+import com.diaoling.deobfuscator.ui.util.ByteLoader;
+import com.diaoling.deobfuscator.ui.util.FallbackException;
+import com.diaoling.deobfuscator.ui.util.InvalidJarException;
+import com.diaoling.deobfuscator.ui.util.MiniClassReader;
 
 public class WrapperFactory
 {

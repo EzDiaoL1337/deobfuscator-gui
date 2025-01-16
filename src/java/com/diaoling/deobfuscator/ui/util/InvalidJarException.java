@@ -1,4 +1,4 @@
-package com.javadeobfuscator.deobfuscator.ui.util;
+package com.diaoling.deobfuscator.ui.util;
 
 /**
  * Exception to be thrown when a jar has been loaded for the deobfuscator

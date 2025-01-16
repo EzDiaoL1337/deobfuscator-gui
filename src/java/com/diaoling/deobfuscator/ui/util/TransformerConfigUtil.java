@@ -1,4 +1,4 @@
-package com.javadeobfuscator.deobfuscator.ui.util;
+package com.diaoling.deobfuscator.ui.util;
 
 import java.io.File;
 import java.lang.reflect.Field;
@@ -7,7 +7,7 @@ import java.util.LinkedHashSet;
 import java.util.Locale;
 import java.util.Set;
 
-import com.javadeobfuscator.deobfuscator.ui.SwingWindow;
+import com.diaoling.deobfuscator.ui.SwingWindow;
 
 public class TransformerConfigUtil
 {

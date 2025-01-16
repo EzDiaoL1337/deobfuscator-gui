@@ -1,4 +1,4 @@
-package com.javadeobfuscator.deobfuscator.ui;
+package com.diaoling.deobfuscator.ui;
 
 import java.awt.Container;
 import java.awt.GridBagConstraints;
@@ -18,9 +18,9 @@ import javax.swing.JTextField;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 
-import com.javadeobfuscator.deobfuscator.ui.component.SynchronousJFXFileChooser;
-import com.javadeobfuscator.deobfuscator.ui.util.SwingUtil;
-import com.javadeobfuscator.deobfuscator.ui.util.TransformerConfigUtil;
+import com.diaoling.deobfuscator.ui.component.SynchronousJFXFileChooser;
+import com.diaoling.deobfuscator.ui.util.SwingUtil;
+import com.diaoling.deobfuscator.ui.util.TransformerConfigUtil;
 import javafx.stage.FileChooser;
 
 public class TransformerSpecificConfigDialog

@@ -1,11 +1,11 @@
-package com.javadeobfuscator.deobfuscator.ui.util;
+package com.diaoling.deobfuscator.ui.util;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;
 
 import javax.swing.JOptionPane;
 
-import com.javadeobfuscator.deobfuscator.ui.SwingWindow;
+import com.diaoling.deobfuscator.ui.SwingWindow;
 
 public class ExceptionUtil
 {

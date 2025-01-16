@@ -1,10 +1,10 @@
-package com.javadeobfuscator.deobfuscator.ui;
+package com.diaoling.deobfuscator.ui;
 
 import java.io.File;
 import java.lang.reflect.Field;
 import java.util.Set;
 
-import com.javadeobfuscator.deobfuscator.ui.util.TransformerConfigUtil;
+import com.diaoling.deobfuscator.ui.util.TransformerConfigUtil;
 
 public class TransformerWithConfig
 {

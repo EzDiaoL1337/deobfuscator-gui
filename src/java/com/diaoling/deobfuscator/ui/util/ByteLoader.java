@@ -1,9 +1,9 @@
-package com.javadeobfuscator.deobfuscator.ui.util;
+package com.diaoling.deobfuscator.ui.util;
 
 import java.util.Map;
 import java.util.Set;
 
-import com.javadeobfuscator.deobfuscator.ui.SwingWindow;
+import com.diaoling.deobfuscator.ui.SwingWindow;
 
 /**
  * ClassLoader that can find classes via their bytecode. Allows loading of external jar files to be instrumented before loading.

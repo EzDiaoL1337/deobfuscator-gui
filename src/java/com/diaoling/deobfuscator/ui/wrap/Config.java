@@ -1,8 +1,8 @@
-package com.javadeobfuscator.deobfuscator.ui.wrap;
+package com.diaoling.deobfuscator.ui.wrap;
 
 import java.util.List;
 
-import com.javadeobfuscator.deobfuscator.ui.util.Reflect;
+import com.diaoling.deobfuscator.ui.util.Reflect;
 
 /**
  * Config wrapper that allows for easy reflection manipulation of fields.

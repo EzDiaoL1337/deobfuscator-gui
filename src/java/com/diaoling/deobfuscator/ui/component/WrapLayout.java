@@ -1,4 +1,4 @@
-package com.javadeobfuscator.deobfuscator.ui.component;
+package com.diaoling.deobfuscator.ui.component;
 
 import java.awt.Component;
 import java.awt.Container;
